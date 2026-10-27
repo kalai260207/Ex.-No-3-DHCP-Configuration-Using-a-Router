@@ -94,7 +94,7 @@ ________________________________________
 
 
 
-<img width="1917" height="1198" alt="Screenshot 2026-10-25 214149" src="https://github.com/user-attachments/assets/8bdfd8b8-44e7-499e-920a-23a4fa4bd90a" />
+<img width="1917" height="1198" alt="Screenshot 2026-10-25 220412" src="https://github.com/user-attachments/assets/a03f76ab-ffdd-4853-acb4-dfce4129a689" />
 
 
 
